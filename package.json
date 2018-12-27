@@ -13,7 +13,13 @@
         "babel-preset-env": "^1.7.0",
         "babel-register": "^6.26.0",
         "body-parser": "^1.18.3",
+        "bson": "^4.0.1",
         "express": "^4.16.4",
-        "node-tools": "https://github.com/tylerhaun/node-tools.git"
+        "express-session": "^1.15.6",
+        "lodash": "^4.17.11",
+        "node-tools": "https://github.com/tylerhaun/node-tools.git",
+        "sequelize": "^4.42.0",
+        "sqlite": "^3.0.0",
+        "sqlite3": "^4.0.4"
     }
 }
